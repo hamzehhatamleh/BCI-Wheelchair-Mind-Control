@@ -1,4 +1,4 @@
-# BCI Mind Control System (Graduate Project)
+# BCI Mind Control System
 
 An assistive technology framework designed for individuals with severe paralysis or speech impairments. This Brain-Computer Interface (BCI) translates imagined speech navigation cues into motor execution signals, allowing users to control an automated wheelchair seamlessly using cognitive perception. 
 
